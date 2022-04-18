@@ -1,4 +1,4 @@
-package mustdointerview.mdarrays;
+package com;
 
 import java.io.IOException;
 
